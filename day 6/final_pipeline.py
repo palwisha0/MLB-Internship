@@ -1,4 +1,3 @@
-# Day-8 - File 4: Final Prediction Pipeline
 # Breast Cancer Prediction System - Complete Project
 
 import pandas as pd

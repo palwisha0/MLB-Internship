@@ -1,4 +1,3 @@
-# Day-8 - File 2: Baseline Model
 # Logistic Regression without Tuning
 
 import pandas as pd
