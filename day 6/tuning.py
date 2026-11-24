@@ -1,4 +1,3 @@
-# Day-8 - File 3: Hyperparameter Tuning
 # Using GridSearchCV to find Best Parameters
 
 import pandas as pd
