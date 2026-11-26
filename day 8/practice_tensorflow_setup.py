@@ -1,7 +1,7 @@
 # Practice 1 - Install & Verify TensorFlow
 
 import tensorflow as tf
-from tensorflow import keras
+from tensorflow import keras # type: ignore
 
 print("TensorFlow Version:", tf.__version__)
 print("Keras Version:", keras.__version__)

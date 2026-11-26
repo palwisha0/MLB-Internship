@@ -1,7 +1,7 @@
 # Practice 2 - Build Simple ANN
 
-from tensorflow.keras.models import Sequential
-from tensorflow.keras.layers import Dense, Flatten
+from tensorflow.keras.models import Sequential # type: ignore
+from tensorflow.keras.layers import Dense, Flatten # type: ignore
 
 # Build Model: Input -> Hidden -> Output
 model = Sequential([

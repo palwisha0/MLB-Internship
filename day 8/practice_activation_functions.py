@@ -1,7 +1,7 @@
 # Practice 3 - Experiment with Activation Functions
 
-from tensorflow.keras.models import Sequential
-from tensorflow.keras.layers import Dense, Flatten
+from tensorflow.keras.models import Sequential # type: ignore
+from tensorflow.keras.layers import Dense, Flatten # type: ignore
 import matplotlib.pyplot as plt
 import numpy as np
 
